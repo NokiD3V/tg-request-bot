@@ -15,6 +15,7 @@ pip3 install -r requirements.txt
 
 ## Configurate
 Create bot TOKEN in bot @Botfather, copy it and paste in index.py 
+
 Find the ID of your channel & paste it in index.py
 
 ## Run
